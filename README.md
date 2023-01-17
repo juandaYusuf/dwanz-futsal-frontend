@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+========> Run project <========.\
+=> Clone project.\
+=> Download NodeJS.\
+=> masuk ke folder project dengan terminal lalu copy di bawah.\
+-> ### `npm i`.\
+=> jika sudah silahkan jalankan perintah.\
+-> ### `npm start` atau jika menggunakan yarn bisa ### `yarn start`.\
+
+### `==========================================================================================================`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
