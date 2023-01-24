@@ -72,9 +72,9 @@ const Admin = () => {
                   <img src='https://asset.kompas.com/crops/JZ0b7mJJ_tZvjF2WVxOM2Gwhdy8=/0x0:1920x1280/750x500/data/photo/2021/09/16/6142b0561f558.jpg' className='img-profile' alt='no preview' />
                 </div>
                 <div className='p-2 d-flex flex-column hide-desc-for-mobile'>
-                  <h5 className='fw-bold'> {adminName}</h5>
+                  <h5 className='navbar-text-overflow'> {adminName}</h5>
                   <span className='bi bi-award-fill fw-light'> {role}</span>
-                  <span className='bi bi-envelope-at-fill fw-light'> {email} </span>
+                  <span className='bi bi-envelope-at-fill fw-light navbar-text-overflow'> {email} </span>
                   <span className='bi bi-telephone-fill fw-light'> {nohp} </span>
                 </div>
               </div>
